@@ -1,0 +1,16 @@
+# MATLAB generated files
+*.asv
+*.m~
+slprj/
+codegen/
+*.mex*
+
+# Large/generated research data and results
+data/simulation/*.mat
+data/experimental/*.txt
+results/
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
